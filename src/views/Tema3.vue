@@ -10,16 +10,16 @@
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-8.pe-lg-0
         .p-4.h-100.p-lg-4.c3.d-flex.align-content-center.flex-wrap.bg2
-          p.mb-0.mx-lg-4.my-3.mb-2 La garantía y realización efectiva de los derechos fundamentales en Colombia constituye un pilar para la consolidación de la dignidad humana y el fortalecimiento de las libertades individuales. En este contexto, el ordenamiento jurídico colombiano ha dispuesto diversas herramientas legales, como la acción de tutela, los recursos administrativos y la labor de organismos de control, que permiten a los ciudadanos exigir el cumplimiento de sus derechos ante posibles vulneraciones. Estos mecanismos no solo operan como instrumentos de protección inmediata, sino que también contribuyen a la construcción de una cultura jurídica basada en el respeto por los derechos humanos. Como lo señala Uprimny (2011), la acción de tutela, en particular, ha sido un instrumento clave para la justiciabilidad de los derechos fundamentales en el país. 
+          p.mb-0.mx-lg-3.my-2.mb-2 La garantía y realización efectiva de los derechos fundamentales en Colombia constituye un pilar para la consolidación de la dignidad humana y el fortalecimiento de las libertades individuales. En este contexto, el ordenamiento jurídico colombiano ha dispuesto diversas herramientas legales, como la acción de tutela, los recursos administrativos y la labor de organismos de control, que permiten a los ciudadanos exigir el cumplimiento de sus derechos ante posibles vulneraciones. Estos mecanismos no solo operan como instrumentos de protección inmediata, sino que también contribuyen a la construcción de una cultura jurídica basada en el respeto por los derechos humanos. Como lo señala Uprimny (2011), la acción de tutela, en particular, ha sido un instrumento clave para la justiciabilidad de los derechos fundamentales en el país. 
       .col-lg-4.mb-4.mb-lg-0.ps-lg-0
         figure.col-9.m-auto.col-md-7.col-lg-12
           img.d-none.d-lg-block(src="@/assets/curso/tema3/1.svg")
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white La acción de tutela
 
-    .row.fondot.p-4.p-lg-5.p-md-3.mb-lg-5.mb-4(data-aos="fade-down")
+    .row.fondot.p-4.p-lg-5.p-md-4.mb-lg-5.mb-4(data-aos="fade-down")
       .col-lg-12
       
         .row.justify-content-center.align-items-center.mb-0
@@ -28,7 +28,7 @@
           .col-lg-5
             img.d-none.d-lg-block(src='@/assets/curso/tema3/2.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-3.col-md-5.col-8.mb-4
         img.d-none.d-lg-block(src='@/assets/curso/tema3/3.png', alt='')
       .col-lg-9.mb-0
@@ -91,19 +91,19 @@
             .col-lg-12
               p.mb-0 La acción de tutela puede ser presentada por cualquier persona que considere que sus derechos fundamentales están siendo vulnerados o amenazados. También puede ser interpuesta a través de un apoderado judicial, así como por el defensor del pueblo o el personero.
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white El derecho de petición
 
-    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5(data-aos="fade-right") 
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-5(data-aos="fade-right") 
       .row.m-0.align-items-center.justify-content-center
         .col-lg-8.mb-0.mb-lg-0
-          .bloque-texto-a__texto.p-4
-            p.mb-3.my-3 El derecho de petición es un derecho fundamental que otorga a toda persona la facultad de presentar solicitudes respetuosas a las autoridades, ya sea por motivos de interés general o particular, y de recibir una pronta respuesta. Este derecho también se extiende a situaciones en las que se interpone una petición contra particulares, con el fin de garantizar los derechos fundamentales. Esto incluye casos en los que los particulares ejercen funciones públicas, prestan servicios públicos o cuando el peticionario se encuentra en una situación de subordinación, como en el caso de un empleador.
+          .bloque-texto-a__texto.p-3.p-lg-4
+            p.mb-lg-3.my-lg-3.mb-0 El derecho de petición es un derecho fundamental que otorga a toda persona la facultad de presentar solicitudes respetuosas a las autoridades, ya sea por motivos de interés general o particular, y de recibir una pronta respuesta. Este derecho también se extiende a situaciones en las que se interpone una petición contra particulares, con el fin de garantizar los derechos fundamentales. Esto incluye casos en los que los particulares ejercen funciones públicas, prestan servicios públicos o cuando el peticionario se encuentra en una situación de subordinación, como en el caso de un empleador.
         .col-lg-4.mb-0
           img.d-none.d-lg-block.wi(src='@/assets/curso/tema3/4.png', alt='')
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Acción de cumplimiento
 
@@ -114,7 +114,7 @@
         img.mb-lg-0.mb-4(src='@/assets/curso/tema3/5.svg', alt='Imagen decorativa')
       .col-lg-9
         .bg11.p-4
-          p.mb-2.my-2 La acción de cumplimiento es un mecanismo ágil y directo que permite a todas las personas, asociaciones, sociedades y fundaciones exigir el cumplimiento de los deberes establecidos por las leyes y las decisiones de la administración que no han sido ejecutadas debido a la negligencia de las autoridades públicas.
+          p.mb-lg-2.my-lg-2.mb-0 La acción de cumplimiento es un mecanismo ágil y directo que permite a todas las personas, asociaciones, sociedades y fundaciones exigir el cumplimiento de los deberes establecidos por las leyes y las decisiones de la administración que no han sido ejecutadas debido a la negligencia de las autoridades públicas.
 
     .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
@@ -130,7 +130,7 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo3.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Acciones populares y de grupo
 
@@ -141,7 +141,7 @@
         img.mb-lg-0.mb-4(src='@/assets/curso/tema3/6.jpg', alt='Imagen decorativa')
       .col-lg-9
         .bg11.p-4
-          p.mb-2.my-2 Consiste en la facultad que tienen todas las personas de solicitar la protección de los derechos e intereses colectivos relacionados con el patrimonio, el espacio público, la seguridad y la salubridad, la moral administrativa, el medio ambiente, la libre competencia económica y otros derechos de naturaleza similar.
+          p.mb-lg-2.my-lg-2.mb-0 Consiste en la facultad que tienen todas las personas de solicitar la protección de los derechos e intereses colectivos relacionados con el patrimonio, el espacio público, la seguridad y la salubridad, la moral administrativa, el medio ambiente, la libre competencia económica y otros derechos de naturaleza similar.
 
     .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
@@ -157,7 +157,7 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo4.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Mecanismos de divulgación de derechos y rutas de atención
     

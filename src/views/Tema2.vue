@@ -7,7 +7,7 @@
         span 2
       h1 Ciudadanía laboral
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
+    .bloque-texto-g.color-secundario.p-3.p-lg-5.p-md-4.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
       )
@@ -28,7 +28,7 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Concepto de trabajo
 
@@ -39,7 +39,7 @@
           .p-4
             p.mb-lg-4.my-lg-3.mb-0(data-aos="fade-left") El trabajo, entendido como una actividad humana orientada a la producción de bienes o servicios, constituye un elemento central en la organización social y económica de las sociedades. Más allá de su función económica, el trabajo permite a los individuos participar activamente en la vida comunitaria y desarrollar sus capacidades personales. Según Castel (1997), el trabajo no solo representa una fuente de ingreso, sino también un espacio de integración social, identidad y reconocimiento. En esta línea, la Organización Internacional del Trabajo (OIT, 2019) subraya que el trabajo decente es fundamental para alcanzar un desarrollo inclusivo y sostenible, al garantizar condiciones de libertad, equidad, seguridad y dignidad humana.
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Función social del trabajo
 
@@ -52,11 +52,11 @@
         figure.col-9.m-auto.col-md-7.col-lg-12
           img.d-none.d-lg-block(src="@/assets/curso/tema2/3.svg")
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo1.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Derechos relacionados con el trabajo
 
-    .row.fondo4.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
+    .row.fondo4.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-down")
       .col-lg-12
          
         p.mb-4 Según la Organización Internacional del Trabajo (s. f.), los derechos laborales fundamentales comprenden diversas garantías esenciales para la dignidad y el bienestar de los trabajadores, entre las cuales se destacan:
@@ -99,7 +99,7 @@
                 span Ir al sitio
                 i.fas.fa-video
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Los sindicatos
 
@@ -109,7 +109,7 @@
       .col-lg-7
         p.mb-0 La libertad sindical y el derecho a conformar organizaciones sindicales constituyen pilares fundamentales de los derechos laborales reconocidos a nivel internacional. Este derecho permite a los trabajadores y trabajadoras asociarse libremente para la defensa y promoción de sus intereses comunes en el ámbito laboral, incluyendo la negociación colectiva, la mejora de condiciones de trabajo y la participación en decisiones que los afectan directamente. Según la Organización Internacional del Trabajo (OIT), la libertad sindical es esencial para garantizar la justicia social y constituye una condición previa para el diálogo social efectivo (OIT, 2021). En Colombia, la Constitución Política de 1991 consagra este derecho en su artículo 39, asegurando la autonomía de las organizaciones sindicales y su protección frente a actos de injerencia o represalia. Como señalan López y Rojas (2018), el fortalecimiento del sindicalismo es clave para equilibrar las relaciones laborales, especialmente en contextos donde persisten desigualdades estructurales y precarización del empleo.
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo1.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Deberes y responsabilidades laborales
 
@@ -133,11 +133,11 @@
 
     p.mb-5(data-aos="fade-right") De acuerdo con la Corte Constitucional de Colombia (Sentencia T-406 de 1992), el trabajo no solo es un derecho, sino también una actividad que se desarrolla dentro de un marco normativo que exige corresponsabilidad entre las partes para alcanzar un equilibrio justo.
 
-    .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+    .titulo2.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
       h3.mb-0.mx-4.text-white Educación y cultura para la ciudadanía laboral
 
-    .row.fondot.p-4.p-lg-5.p-md-3.mb-0(data-aos="fade-down")
+    .row.fondot.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-down")
       .col-lg-12
       
         .row.justify-content-center.align-items-center.mb-0

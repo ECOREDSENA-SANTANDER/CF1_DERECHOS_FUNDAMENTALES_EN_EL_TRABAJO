@@ -21,16 +21,16 @@
         h2 1.1 La democracia
      
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-9.pe-lg-4
+        .col-lg-9.pe-lg-4.pe-md-4.ps-md-4.ps-lg-3.ps-4.pe-4
           .row.justify-content-center.align-items-center
             .col-lg-12
               .row.justify-content-center.align-items-center
                 .col-lg-5.col-md-7.col-9.pe-lg-0.mb-lg-0.mb-4(data-aos="fade-left")
                   figure
                     img(src='@/assets/curso/tema1/2.png' alt='')
-                .col-md-12.col-lg-7.bg2.h-100.ps-lg-0.pe-lg-4(data-aos="fade-right")
-                  .p-lg-5.c1.p-4
-                    p.mb-3.my-3 La Real Academia Española (s. f.) define la democracia como un sistema político en el que la soberanía reside en el pueblo, quien la ejerce directamente o por medio de representantes. Como afirma Sartori (1998), “la democracia es el poder del pueblo, por el pueblo y para el pueblo”, lo cual implica que las decisiones colectivas deben reflejar la participación y la soberanía popular.
+                .col-md-12.col-lg-7.bg2.h-100(data-aos="fade-right")
+                  .p-lg-5.c1.p-md-3.p-3
+                    p.mb-lg-3.my-lg-3.mb-0 La Real Academia Española (s. f.) define la democracia como un sistema político en el que la soberanía reside en el pueblo, quien la ejerce directamente o por medio de representantes. Como afirma Sartori (1998), “la democracia es el poder del pueblo, por el pueblo y para el pueblo”, lo cual implica que las decisiones colectivas deben reflejar la participación y la soberanía popular.
         .col-lg-3
           img.wid.img-a.d-none.d-lg-block(src='@/assets/curso/tema1/3.png', alt='')
       
@@ -55,11 +55,11 @@
 
       p.mb-4(data-aos="fade-right") La Declaración Universal de los Derechos Humanos es un documento que representa un hito en la historia de la humanidad. Elaborada por representantes de diversas regiones del mundo, con distintos antecedentes jurídicos y culturales, fue proclamada por la Asamblea General de las Naciones Unidas en París el 10 de diciembre de 1948. Este documento establece un ideal común para todos los pueblos y naciones, promoviendo el respeto y la protección de los derechos fundamentales.
 
-      .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5(data-aos="fade-right") 
+      .bloque-texto-a.color-acento-contenido.p-3.p-md-4.p-lg-5.mb-5(data-aos="fade-right") 
         .row.m-0.align-items-center.justify-content-center
           .col-lg-8.mb-0.mb-lg-0
-            .bloque-texto-a__texto.p-lg-4.c2.p-4
-              p.mb-1 En el contexto colombiano, la Corte Constitucional, mediante la Sentencia T-401 de 1992, destacó la centralidad de la dignidad humana dentro del orden constitucional. En dicha sentencia, se afirmó que la dignidad “es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución”, lo que la convierte en un principio fundante del Estado colombiano. Este valor posee un carácter absoluto, por lo que no puede ser limitado ni relativizado bajo ninguna circunstancia. La Corte subraya que “el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado”, lo que implica que la integridad del ser humano constituye la razón de ser, el principio y el fin último de la organización estatal (Corte Constitucional, Sentencia T-401 de 1992).
+            .bloque-texto-a__texto.p-lg-4.p-3
+              p.mb-lg-2.my-lg-2.mb-0 En el contexto colombiano, la Corte Constitucional, mediante la Sentencia T-401 de 1992, destacó la centralidad de la dignidad humana dentro del orden constitucional. En dicha sentencia, se afirmó que la dignidad “es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución”, lo que la convierte en un principio fundante del Estado colombiano. Este valor posee un carácter absoluto, por lo que no puede ser limitado ni relativizado bajo ninguna circunstancia. La Corte subraya que “el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado”, lo que implica que la integridad del ser humano constituye la razón de ser, el principio y el fin último de la organización estatal (Corte Constitucional, Sentencia T-401 de 1992).
           .col-lg-4.mb-0
             img.d-none.d-lg-block.wi(src='@/assets/curso/tema1/6.png', alt='')
 
@@ -134,7 +134,7 @@
 
         
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-9.pe-lg-4
+        .col-lg-9.pe-lg-4.pe-md-4.ps-md-4.ps-lg-3.ps-4.pe-4
           .row.justify-content-center.align-items-center
             .col-lg-12
               .row.justify-content-center.align-items-center
@@ -142,10 +142,10 @@
                   figure
                     img(src='@/assets/curso/tema1/13.svg' alt='')
                 .col-md-12.col-lg-7.bg1.h-100.ps-lg-0.pe-lg-4(data-aos="fade-right")
-                  .p-4
-                    p.mb-2.my-2.mx-1 Uno de los elementos centrales de esta Carta Magna es su carácter garantista y participativo, al establecer un extenso catálogo de derechos fundamentales, sociales, económicos y culturales. A diferencia de constituciones anteriores, la de 1991 reconoce explícitamente la pluralidad étnica y cultural, y promueve mecanismos de participación ciudadana como el plebiscito, el referendo, la consulta popular y la iniciativa legislativa, fortaleciendo así la democracia directa (Cepeda Espinosa, 2004).
+                  .p-3.p-md-3.p-lg-4.c2
+                    p.mb-lg-2.my-lg-2.mx-lg-3.mb-0 Uno de los elementos centrales de esta Carta Magna es su carácter garantista y participativo, al establecer un extenso catálogo de derechos fundamentales, sociales, económicos y culturales. A diferencia de constituciones anteriores, la de 1991 reconoce explícitamente la pluralidad étnica y cultural, y promueve mecanismos de participación ciudadana como el plebiscito, el referendo, la consulta popular y la iniciativa legislativa, fortaleciendo así la democracia directa (Cepeda Espinosa, 2004).
         .col-lg-3
-          img.d-none.d-lg-block.wid(src='@/assets/curso/tema1/14.png', alt='')
+          img.d-none.d-lg-block.wid2.img-a(src='@/assets/curso/tema1/14.png', alt='')
 
       p.mb-4(data-aos="fade-right") Además, la Constitución introdujo la acción de tutela, una figura innovadora que permite a cualquier persona acudir ante los jueces para reclamar la protección inmediata de sus derechos fundamentales. Este mecanismo ha sido ampliamente valorado por su accesibilidad y efectividad, y ha contribuido significativamente al desarrollo de una jurisprudencia garantista por parte de la Corte Constitucional (Uprimny, 2006). Asimismo, el bloque de constitucionalidad, basado en el artículo 93, incorpora al orden interno los tratados internacionales de derechos humanos ratificados por Colombia, ampliando el espectro de protección jurídica.
 
@@ -164,10 +164,10 @@
       #t_1_4.titulo-segundo.mb-0
         h2 1.4 El trabajo como derecho humano fundamental
 
-      .row.fondo3.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-        .col-lg-12.px-lg-5.px-4.mb-0
+      .row.fondo3.p-4.p-lg-5.mb-0(data-aos="fade-down")
+        .col-lg-12
 
-          .row.justify-content.align-items-center.mb-5.my-5
+          .row.justify-content.align-items-center.mb-5
             .col-lg-3
               img.d-none.d-lg-block(src='@/assets/curso/tema1/16.svg' alt='')
             .col-lg-4
@@ -177,7 +177,7 @@
               .bg5.p-4.mb-lg-0.mb-0
                 p.mb-lg-4.my-lg-4.mx-lg-4.mb-0 El trabajo productivo, tradicionalmente asociado al ámbito público y a las relaciones mercantiles, mantiene una vinculación directa con entidades como las empresas o empleadores. En este contexto, las personas trabajadoras son reconocidas como proveedoras de bienes o servicios, lo cual se materializa mediante una remuneración económica.
     
-          .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
+          .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
             img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
             h3.mb-0.mx-4.text-white Dimensiones del trabajo
     
@@ -238,15 +238,16 @@
           h5.mb-4 Esto incluye:  
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-6.col-md-6.mb-4
-              .bg8.p-3.mb-0
-                img.mvb1.mt-5.im1(src="@/assets/curso/tema1/24.svg")
+              .bg8.p-3.mb-0.he
+                img.mvb1.img-a.img-t.my-4(src="@/assets/curso/tema1/24.svg")
               .bg9.p-3
                 h4.mb-0.text-center.my-lg-2.mb-lg-3.mb-0 El derecho a la orientación profesional.
             .col-lg-6.col-md-6.mb-4
-              .bg8.p-3.mb-0
-                img.mvb2.mt-3(src="@/assets/curso/tema1/25.svg")
+              .bg8.p-3.mb-0.he
+                img.mvb2.img-a.img-t(src="@/assets/curso/tema1/25.svg")
               .bg9.p-3
                 h4.mb-0.text-center Derecho a la formación para el trabajo y al empleo digno. 
+
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8
@@ -256,10 +257,10 @@
         .col-lg-4.col-md-7.col-9
           img(src="@/assets/curso/tema1/26.svg")
 
-      .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-0(data-aos="fade-right") 
+      .bloque-texto-a.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-0(data-aos="fade-right") 
         .row.m-0.align-items-center.justify-content-center
           .col-lg-8.mb-0.mb-lg-0
-            .bloque-texto-a__texto.p-4
+            .bloque-texto-a__texto.p-lg-4.p-3
               p.mb-0.my-2 El Estado colombiano, por medio del Ministerio del Trabajo y otras instituciones, ha implementado diversas medidas orientadas a la promoción del trabajo decente, el fortalecimiento de los mecanismos de inspección, vigilancia y control, así como la ampliación de la cobertura en materia de seguridad social. Sin embargo, en el panorama laboral aún se evidencian desafíos relacionados con brechas estructurales que podrían abordarse mediante políticas integrales, sostenidas y con enfoque de equidad, con el fin de favorecer el acceso a condiciones laborales adecuadas y la protección de los trabajadores en los distintos sectores productivos.
           .col-lg-4.mb-0
             img.d-none.d-lg-block.wi(src='@/assets/curso/tema1/27.png', alt='')

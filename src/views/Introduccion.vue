@@ -21,8 +21,8 @@
           .col-lg-12
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. 
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NL83a4WqQis?si=BiSAkBqrirrfe_Ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            figcaption Video. Derechos fundamentales del trabajo
 
 </template>
 

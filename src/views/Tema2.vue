@@ -17,7 +17,7 @@
     .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/tema1/video.svg")
+          img(src="@/assets/curso/tema1/pdf.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0

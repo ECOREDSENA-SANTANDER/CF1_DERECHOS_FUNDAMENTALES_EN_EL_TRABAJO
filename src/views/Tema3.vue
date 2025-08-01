@@ -76,15 +76,15 @@
               ol.lista-ol--cuadro
                 li.d-flex
                   .lista-ol--cuadro__vineta
-                    span 1
+                    span #[b 1]
                   | Las acciones de tutela que se interpongan contra cualquier organismo o entidad del sector descentralizado por servicios del orden nacional, así como contra autoridades públicas del orden departamental, serán asignadas para su conocimiento, en primera instancia, a los jueces de circuito o a aquellos que tengan categoría de tales.
                 li.d-flex 
                   .lista-ol--cuadro__vineta
-                    span 2
+                    span #[b 2]
                   | A los jueces municipales les serán repartidas para su conocimiento en primera instancia, las acciones de tutela que se interpongan contra cualquier autoridad pública del orden distrital o municipal y contra particulares.
                 li.d-flex 
                   .lista-ol--cuadro__vineta
-                    span 3
+                    span #[b 3]
                   | Cuando la acción de tutela se promueva contra más de un funcionario o corporación judicial, le será repartida al respectivo superior funcional del accionado. Si se dirige contra la Fiscalía General de la Nación, se repartirá al superior funcional del juez al que esté adscrito el fiscal.
 
           .row.justify-content-center.align-items-center.col-xl-11.m-auto(titulo="¿Quién puede interponer la acción?")

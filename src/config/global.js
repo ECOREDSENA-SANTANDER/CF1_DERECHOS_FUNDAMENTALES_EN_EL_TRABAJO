@@ -129,14 +129,14 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Trabajo, sociedad y dignidad',
+      tema: 'Trabajo, sociedad y dignidad',
       referencia:
-        'CARLOS ARTURO GARCÍA CALERO. (2023, June 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
+        'Carlos Arturo García Calero. (2023, June 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sDEwRetsBCw',
     },
     {
-      tema: '4. Desarrollo para una vida digna',
+      tema: 'Desarrollo para una vida digna',
       referencia:
         'Canal Capital. (2021, June 30). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital [Video]. YouTube.',
       tipo: 'Video',
@@ -147,7 +147,7 @@ export default {
     {
       termino: 'Acción de Tutela',
       significado:
-        'es la garantía constitucional que tiene toda persona a la protección judicial de sus derechos fundamentales a través de un recurso efectivo. La constitución señala claramente que: "La protección consistirá en una orden para aquél respecto de quien se solicita la tutela, actúe o se abstenga de hacerlo".',
+        'es la garantía constitucional que tiene toda persona a la protección judicial de sus derechos fundamentales a través de un recurso efectivo. La constitución señala claramente que: "la protección consistirá en una orden para aquél respecto de quien se solicita la tutela, actúe o se abstenga de hacerlo".',
     },
     {
       termino: 'Acción Pública',
@@ -155,17 +155,17 @@ export default {
         'se definen como acciones públicas, aquellas acciones jurídicas que las personas pueden presentar por su propia cuenta sin que medie necesariamente la representación de un abogado. Este tipo de acciones pueden ser elevadas por cualquier ciudadano, en las entidades de control y garantía de los derechos fundamentales.',
     },
     {
-      termino: 'Activismo Judicial Territorial',
+      termino: 'Activismo judicial territorial',
       significado:
         'consiste en una práctica específica de los grupos y las comunidades para promover el acceso a la justicia frente a vulneraciones de sus derechos, mediante la utilización de acciones públicas, y otros mecanismos de exigibilidad de los derechos. La movilización y la acción colectiva para la exigibilidad de los derechos es una de las prácticas que más crece en la demanda de derechos en América Latina, Estados Unidos y Europa, en el entendido que el derecho le pertenece a las personas y que las instituciones locales tienen la responsabilidad de protegerlos y garantizarlos.',
     },
     {
       termino: 'Derecho de petición',
       significado:
-        'es aquel derecho que tiene toda persona individual o jurídica, grupo, organización o asociación para solicitar información, documentación, o reclamar ante las autoridades competentes -normalmente los gobiernos o entidades públicas-, o ante quien se encuentre en estado de subordinación, como el empleador, por razones de interés público o particular, ya sea que se haga de forma individual, general o colectivo.',
+        'es aquel derecho que tiene toda persona individual o jurídica, grupo, organización o asociación para solicitar información, documentación, o reclamar ante las autoridades competentes (normalmente los gobiernos o entidades públicas), o ante quien se encuentre en estado de subordinación, como el empleador, por razones de interés público o particular, ya sea que se haga de forma individual, general o colectivo.',
     },
     {
-      termino: 'Derecho Laboral',
+      termino: 'Derecho laboral',
       significado:
         'también conocido como derecho del trabajo o derecho social, es una rama del derecho cuyos principios y normas jurídicas tienen por objeto la tutela del trabajo humano realizado en forma libre, por cuenta ajena, en relación de dependencia y a cambio de una contraprestación.',
     },
@@ -284,13 +284,13 @@ export default {
     },
     {
       referencia:
-        'Feregrino Basurto, M. A. (2015). TRABAJO y CIUDADANÍA. In Iberofórum. Revista De Ciencias Sociales De La Universidad Iberoamericana: Vol. Año X (Issue No. 19, pp. 29–62) [Journal-article]. Universidad Iberoamericana A.C., Ciudad de México.',
+        'Feregrino Basurto, M. A. (2015). TRABAJO y CIUDADANÍA. In Iberofórum. Revista De Ciencias Sociales De La Universidad Iberoamericana: vol. año X (Issue No. 19, pp. 29–62) [Journal-article]. Universidad Iberoamericana A.C., Ciudad de México.',
       link:
         'https://ibero.mx/iberoforum/19/pdf/ESPANOL/2.%20NOTAS%20PARA%20EL%20DEBATE%20FEREGRINO%20NO.%2019.pdf',
     },
     {
       referencia:
-        'Kant, I. (1785/2007). Fundamentación de la metafísica de las costumbres (M. García Morente, Trad.). México: Ediciones Coyoacán. (Obra original publicada en 1785)',
+        'Kant, I. (1785/2007). Fundamentación de la metafísica de las costumbres (M. García Morente, Trad.). México: Ediciones Coyoacán. (Obra original publicada en 1785).',
       link: '',
     },
     {
@@ -310,23 +310,23 @@ export default {
     },
     {
       referencia:
-        'Nussbaum, M., & Sen, A. (Eds.). (1996). La calidad de vida (1.ª ed., traducción de Victoria Camps). Fondo de Cultura Económica. (Obra original publicada en 1993)',
+        'Nussbaum, M., & Sen, A. (Eds.). (1996). La calidad de vida (1.ª ed., traducción de Victoria Camps). Fondo de Cultura Económica. (Obra original publicada en 1993).',
       link: '',
     },
     {
       referencia:
         'Organización Internacional del Trabajo (OIT). (2019). La cultura del trabajo decente.',
-      link: 'https://www.ilo.org',
+      link: '',
     },
     {
       referencia:
         'Organización Internacional del Trabajo (OIT). (2019). Entornos de trabajo saludables y productivos.',
-      link: 'https://www.ilo.org',
+      link: '',
     },
     {
       referencia:
         'Organización Internacional del Trabajo (OIT). (2021). La libertad sindical y la negociación colectiva: Principios y normas internacionales del trabajo.',
-      link: 'https://www.ilo.org',
+      link: '',
     },
     {
       referencia:
@@ -336,8 +336,8 @@ export default {
     },
     {
       referencia:
-        'Procuraduría General de la Nación. (s.f.). Plan Estratégico Nacional en Derechos Humanos y Derecho Internacional Humanitario (PLANEDH). Bogotá, Colombia. Recuperado de',
-      link: 'https://www.procuraduria.gov.co',
+        'Procuraduría General de la Nación. (s.f.). Plan Estratégico Nacional en Derechos Humanos y Derecho Internacional Humanitario (PLANEDH). Bogotá, Colombia.',
+      link: '',
     },
     {
       referencia:
@@ -361,7 +361,7 @@ export default {
     {
       referencia:
         'UNESCO. (2020). Educación para la ciudadanía mundial: prepararse para el futuro.',
-      link: 'https://www.unesco.org',
+      link: '',
     },
     {
       referencia:
@@ -432,7 +432,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Johann Sebastián Teran Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -442,7 +442,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth González Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

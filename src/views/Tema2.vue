@@ -22,7 +22,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-2 Trabajo y ciudadanía
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente documento titulado “Trabajo y ciudadanía”.
+              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente documento titulado “trabajo y ciudadanía”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://ibero.mx/iberoforum/19/pdf/ESPANOL/2.%20NOTAS%20PARA%20EL%20DEBATE%20FEREGRINO%20NO.%2019.pdf" target="_blank")
                 span Descargar
@@ -93,7 +93,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-2 La labor de la OIT
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video “La labor de la OIT”.
+              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video “la labor de la OIT”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=VzXwkDHtRXc" target="_blank")
                 span Ir al sitio

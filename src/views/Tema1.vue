@@ -205,15 +205,14 @@
    
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-9.mb-0.mb-lg-0(data-aos="fade-right")
-          p.mb-lg-4.mb-4 La alimentación es fundamental, porque ayuda a que las personas alcancen un buen estado de salud. La alimentación junto con las bebidas que se ingieren, cubre las necesidades del organismo dependiendo de la dieta. 
-          .row.mb-4
+          .row.mb-lg-5.mb-4
             .col-lg-5.mb-4.mb-lg-0.pe-lg-0
               figure.col-9.m-auto.col-md-7.col-lg-12
                 img(src="@/assets/curso/tema1/22.svg")
             .col-lg-7.ps-lg-0
               .p-4.p-lg-4.h-100.d-flex.align-content-center.flex-wrap.bg2
                 .bg7.p-2.mb-lg-2.mb-4
-                  h4.mb-0 Las diferencias entre trabajo y empleo pueden entenderse de la siguiente manera
+                  h4.mb-0 Las diferencias entre trabajo y empleo pueden entenderse de la siguiente manera:
                 p.mb-0 El trabajo puede definirse como una actividad mediante la cual los seres humanos transforman recursos, dotándolos de valor tanto material como social. En contraste, el empleo se refiere a una relación específica dentro del sistema económico, vinculada al capital, en la que el trabajo se convierte en un flujo de capitales más que en una práctica de transformación social (Castel, 1997). Desde esta perspectiva, el/la trabajador/a cumple un rol determinado dentro de la estructura social, siendo el trabajo una categoría más amplia, que abarca tanto actividades remuneradas como no remuneradas.
           p.mb-0 Mientras que el empleo implica una relación contractual formalizada, sujeta a normativas legales y económicas, el trabajo, en sentido amplio, representa la capacidad humana para la creación, la transformación y la producción de sentido. Esta distinción resulta fundamental para comprender cómo ciertas formas de trabajo —como el doméstico o el comunitario— pueden quedar invisibilizadas dentro de las métricas del empleo formal (Federici, 2013).
         .col-lg-3(data-aos="fade-left" data-aos-delay="600")
@@ -235,18 +234,18 @@
   
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-8
-          h5.mb-4 Esto incluye:  
+          p.mb-4 Esto incluye:  
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-6.col-md-6.mb-4
               .bg8.p-3.mb-0.he
                 img.mvb1.img-a.img-t.my-4(src="@/assets/curso/tema1/24.svg")
               .bg9.p-3
-                h4.mb-0.text-center.my-lg-2.mb-lg-3.mb-0 El derecho a la orientación profesional.
+                p.mb-0.text-center.my-lg-2.mb-lg-3.mb-0 El derecho a la orientación profesional.
             .col-lg-6.col-md-6.mb-4
               .bg8.p-3.mb-0.he
                 img.mvb2.img-a.img-t(src="@/assets/curso/tema1/25.svg")
               .bg9.p-3
-                h4.mb-0.text-center Derecho a la formación para el trabajo y al empleo digno. 
+                p.mb-0.text-center Derecho a la formación para el trabajo y al empleo digno. 
 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")

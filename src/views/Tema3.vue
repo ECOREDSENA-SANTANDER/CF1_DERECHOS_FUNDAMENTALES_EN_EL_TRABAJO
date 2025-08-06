@@ -24,7 +24,7 @@
       
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-7
-            p.mb-0 La acción de tutela en Colombia constituye un mecanismo judicial de protección inmediata de los derechos fundamentales cuando estos se consideran vulnerados o amenazados por la acción u omisión de una autoridad pública o, en ciertos casos, de particulares. Este recurso, consagrado en el artículo 86 de la Constitución Política de 1991, ha sido ampliamente valorado por su accesibilidad, informalidad y eficacia, especialmente en contextos donde otros medios judiciales resultan insuficientes o ineficaces. Según Uprimny (2011), la tutela representa una innovación jurídica relevante en América Latina, al consolidarse como un instrumento que democratiza el acceso a la justicia y fortalece el Estado de Derecho, aunque también enfrenta desafíos relacionados con su uso excesivo y la seguridad jurídica. En este sentido, la tutela no solo protege derechos individuales, sino que ha contribuido a moldear la cultura constitucional del país.
+            p.mb-0 La acción de tutela en Colombia constituye un mecanismo judicial de protección inmediata de los derechos fundamentales cuando estos se consideran vulnerados o amenazados por la acción u omisión de una autoridad pública o, en ciertos casos, de particulares. Este recurso, consagrado en el artículo 86 de la Constitución Política de 1991, ha sido ampliamente valorado por su accesibilidad, informalidad y eficacia, especialmente en contextos donde otros medios judiciales resultan insuficientes o ineficaces. Según Uprimny (2011), la tutela representa una innovación jurídica relevante en América Latina, al consolidarse como un instrumento que democratiza el acceso a la justicia y fortalece el Estado de derecho, aunque también enfrenta desafíos relacionados con su uso excesivo y la seguridad jurídica. En este sentido, la tutela no solo protege derechos individuales, sino que ha contribuido a moldear la cultura constitucional del país.
           .col-lg-5
             img.d-none.d-lg-block(src='@/assets/curso/tema3/2.png', alt='')
 
@@ -33,19 +33,19 @@
         img.d-none.d-lg-block(src='@/assets/curso/tema3/3.png', alt='')
       .col-lg-9.mb-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-0(data-aos="fade-right")
-          .row.justify-content-center.align-items-center.col-xl-11.m-auto(titulo="¿Cuándo Procede la Acción de Tutela?")
+          .row.justify-content-center.align-items-center.col-xl-11.m-auto(titulo="¿Cuándo procede la acción de tutela?")
             .col-lg-12
               p.mb-4 La acción de tutela procede en las siguientes circunstancias:
               ul.lista-ul.mb-0
                 li.d-flex.mb-2
                   i.fas.fa-user
-                  p.mb-0 #[b Vulneración de Derechos Fundamentales:] cuando se vean vulnerados o amenazados los derechos constitucionales fundamentales, incluso aquellos que no están textualmente consagrados en la Constitución Política, siempre que se pueda establecer una conexión con los derechos fundamentales. Esto puede ocurrir por la acción u omisión de cualquier autoridad pública.
+                  p.mb-0 #[b Vulneración de derechos fundamentales:] cuando se vean vulnerados o amenazados los derechos constitucionales fundamentales, incluso aquellos que no están textualmente consagrados en la Constitución Política, siempre que se pueda establecer una conexión con los derechos fundamentales. Esto puede ocurrir por la acción u omisión de cualquier autoridad pública.
                 li.d-flex.mb-2
                   i.fas.fa-user
-                  p.mb-0 #[b Falta de Otros Medios de Protección:] la tutela es procedente cuando no existen otros mecanismos disponibles para proteger el derecho en cuestión. Sin embargo, también puede utilizarse como recurso transitorio para evitar un perjuicio irremediable, incluso si hay otros medios de protección disponibles.
+                  p.mb-0 #[b Falta de otros medios de protección:] la tutela es procedente cuando no existen otros mecanismos disponibles para proteger el derecho en cuestión. Sin embargo, también puede utilizarse como recurso transitorio para evitar un perjuicio irremediable, incluso si hay otros medios de protección disponibles.
                 li.d-flex.mb-2
                   i.fas.fa-user
-                  p.mb-0 #[b Acción u Omisión de Particulares:] la acción de tutela puede ser invocada cuando la vulneración de derechos se deriva de la acción u omisión de un particular, siempre que este esté prestando un servicio público o cumpliendo funciones públicas.
+                  p.mb-0 #[b Acción u omisión de particulares:] la acción de tutela puede ser invocada cuando la vulneración de derechos se deriva de la acción u omisión de un particular, siempre que este esté prestando un servicio público o cumpliendo funciones públicas.
                 li.d-flex.mb-2
                   i.fas.fa-user
                   p.mb-0 #[b Situación de indefensión:] proceder cuando el solicitante se encuentre en una situación de indefensión o subordinación respecto del particular contra quien se interpone la acción de tutela.
@@ -123,8 +123,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-2 Mecanismos Constitucionales y Legales
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar la página 14 del siguiente documento titulado “Mecanismos Constitucionales y Legales para la defensa de los derechos fundamentales de las y los trabajadores”.
+              h4.mb-2 Mecanismos constitucionales y legales
+              p.mb-0 Para profundizar esta temática, le invitamos a consultar la página 14 del siguiente documento titulado “Mecanismos constitucionales y legales para la defensa de los derechos fundamentales de las y los trabajadores”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.ens.org.co/wp-content/uploads/2016/11/Escuela-de-Liderazgo-Sindical-Democr%C3%A1tico-Mecanismos-Const-y-Legales-para-la-def-de-los-derechos-fundamentales-de-los-trabajadores-2007.pdf" target="_blank")
                 span Descargar
@@ -150,8 +150,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-2 Mecanismos Constitucionales y Legales
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar la página 16 del siguiente documento titulado “Mecanismos Constitucionales y Legales para la defensa de los derechos fundamentales de las y los trabajadores”.
+              h4.mb-2 Mecanismos constitucionales y legales
+              p.mb-0 Para profundizar esta temática, le invitamos a consultar la página 16 del siguiente documento titulado “Mecanismos constitucionales y legales para la defensa de los derechos fundamentales de las y los trabajadores”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.ens.org.co/wp-content/uploads/2016/11/Escuela-de-Liderazgo-Sindical-Democr%C3%A1tico-Mecanismos-Const-y-Legales-para-la-def-de-los-derechos-fundamentales-de-los-trabajadores-2007.pdf" target="_blank")
                 span Descargar

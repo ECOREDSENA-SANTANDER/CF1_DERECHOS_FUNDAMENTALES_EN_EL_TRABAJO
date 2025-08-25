@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Derechos fundamentales en el trabajo',
+    Name: 'Derechos fundamentales del trabajo',
     Description:
-      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante, como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas, de la promoción de la dignidad humana.',
+      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas, de la promoción de la dignidad humana.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -47,7 +47,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Constitución política de Colombia',
+            titulo: 'Constitución Política de Colombia',
             hash: 't_1_3',
           },
           {
@@ -129,28 +129,28 @@ export default {
   },
   complementario: [
     {
-      tema: 'Trabajo, sociedad y dignidad',
+      tema: 'Trabajo, sociedad y dignidad humana',
       referencia:
-        'Carlos Arturo García Calero. (2023, June 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
+        'García Calero, C. A. (8 de junio de 2023). ¿Qué son los derechos fundamentales en el trabajo?.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sDEwRetsBCw',
     },
     {
       tema: 'Desarrollo para una vida digna',
       referencia:
-        'Canal Capital. (2021, June 30). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital [Video]. YouTube.',
+        'Canal Capital. (29 de junio de 2021). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EY-woQB8z8Q&t=35s',
     },
   ],
   glosario: [
     {
-      termino: 'Acción de Tutela',
+      termino: 'Acción de tutela',
       significado:
         'es la garantía constitucional que tiene toda persona a la protección judicial de sus derechos fundamentales a través de un recurso efectivo. La constitución señala claramente que: "la protección consistirá en una orden para aquél respecto de quien se solicita la tutela, actúe o se abstenga de hacerlo".',
     },
     {
-      termino: 'Acción Pública',
+      termino: 'Acción pública',
       significado:
         'se definen como acciones públicas, aquellas acciones jurídicas que las personas pueden presentar por su propia cuenta sin que medie necesariamente la representación de un abogado. Este tipo de acciones pueden ser elevadas por cualquier ciudadano, en las entidades de control y garantía de los derechos fundamentales.',
     },
@@ -177,7 +177,7 @@ export default {
     {
       termino: 'Derechos de tercera generación',
       significado:
-        'también conocidos como Derechos de Solidaridad o de los Pueblos contemplan cuestiones de carácter supranacional como el derecho a la paz y a un medio ambiente sano. Surgen como respuesta a la necesidad de cooperación entre las naciones y los distintos grupos que las integran. Comprende tres tipos de derechos: civiles y políticos; económicos, sociales y culturales; y de cooperación entre los pueblos. Pertenecen a los distintos grupos que conforman una nación y a las naciones entre sí. Su titular es el Estado, pero también pueden ser reclamados ante el propio Estado por los grupos pertenecientes al mismo, y ante otro Estado, en el caso de la comunidad internacional: de nación a nación.',
+        'también conocidos como derechos de solidaridad o de los pueblos, contemplan cuestiones de carácter supranacional como el derecho a la paz y a un medio ambiente sano. Surgen como respuesta a la necesidad de cooperación entre las naciones y los distintos grupos que las integran. Comprende tres tipos de derechos: civiles y políticos; económicos, sociales y culturales; y de cooperación entre los pueblos. Pertenecen a los distintos grupos que conforman una nación y a las naciones entre sí. Su titular es el Estado, pero también pueden ser reclamados ante el propio Estado por los grupos pertenecientes al mismo, y ante otro Estado, en el caso de la comunidad internacional: de nación a nación.',
     },
     {
       termino: 'Derechos de territorialidad',
@@ -263,12 +263,12 @@ export default {
     },
     {
       referencia:
-        'Constitución Política de Colombia. (1991). Asamblea Nacional Constituyente. Recuperado de',
+        'Constitución Política de Colombia. (1991). Asamblea Nacional Constituyente.',
       link: 'https://www.constitucioncolombia.com/',
     },
     {
       referencia:
-        'Corte Constitucional. (1992). Sentencia T-401 de 1992. Magistrado ponente: Eduardo Cifuentes Muñoz. Recuperado de',
+        'Corte Constitucional. (1992). Sentencia T-401 de 1992. Magistrado ponente: Eduardo Cifuentes Muñoz.',
       link:
         'https://img.lpderecho.pe/wp-content/uploads/2022/05/Sentencia-T-401-1992-Colombia-LPDerecho.pdf',
     },
@@ -284,13 +284,13 @@ export default {
     },
     {
       referencia:
-        'Feregrino Basurto, M. A. (2015). TRABAJO y CIUDADANÍA. In Iberofórum. Revista De Ciencias Sociales De La Universidad Iberoamericana: vol. año X (Issue No. 19, pp. 29–62) [Journal-article]. Universidad Iberoamericana A.C., Ciudad de México.',
+        'Feregrino Basurto, M. A. (2015). Trabajo y ciudadanía. Iberofórum. Revista de Ciencias Sociales de la Universidad Iberoamericana, 19, 29-62.',
       link:
         'https://ibero.mx/iberoforum/19/pdf/ESPANOL/2.%20NOTAS%20PARA%20EL%20DEBATE%20FEREGRINO%20NO.%2019.pdf',
     },
     {
       referencia:
-        'Kant, I. (1785/2007). Fundamentación de la metafísica de las costumbres (M. García Morente, Trad.). México: Ediciones Coyoacán. (Obra original publicada en 1785).',
+        'Kant, I. (2009). Fundamentación de la metafísica de las costumbres (M. García Morente, Trad.; Opuscula Philosophica, n.º 18). Madrid: Ediciones Encuentro, S.A. (Trabajo original publicado en 1785).',
       link: '',
     },
     {
@@ -330,7 +330,7 @@ export default {
     },
     {
       referencia:
-        'Organización Internacional del Trabajo. (s. f.). Los derechos laborales son derechos humanos. Recuperado de',
+        'Organización Internacional del Trabajo. (s. f.). Los derechos laborales son derechos humanos.',
       link:
         'https://www.ilo.org/es/resource/article/los-derechos-laborales-son-derechos-humanos',
     },
@@ -346,7 +346,7 @@ export default {
     },
     {
       referencia:
-        'Real Academia Española. (s. f.). Democracia. En Diccionario de la lengua española (23.ª ed.). Recuperado de',
+        'Real Academia Española. (s. f.). Democracia. En Diccionario de la lengua española (23.ª ed.).',
       link: 'https://dle.rae.es/democracia',
     },
     {
@@ -413,7 +413,7 @@ export default {
         },
         {
           nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -447,8 +447,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Andrea Ardila Chaparro',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

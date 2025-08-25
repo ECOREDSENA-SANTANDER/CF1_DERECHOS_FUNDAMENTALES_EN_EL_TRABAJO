@@ -57,7 +57,7 @@
               p.mb-0 En ningún caso podrá transcurrir un plazo superior a 10 días entre la presentación de la solicitud de tutela y la emisión de su resolución.
           .row.justify-content-center.align-items-center.col-xl-11.m-auto(titulo="¿Cómo se debe presentar la acción de tutela?")
             .col-lg-12
-              p.mb-4 La acción de tutela puede ser presentación de manera verbal o escrita, y puede hacerse en nombre propio o en representación de la persona afectada. No es necesario contar con la asistencia de un abogado para interponer esta acción.
+              p.mb-4 La acción de tutela puede presentarse de manera verbal o escrita, y puede hacerse en nombre propio o en representación de la persona afectada. No es necesario contar con la asistencia de un abogado para interponer esta acción.
               p.mb-4 La acción de tutela puede ser presentada de forma verbal en los siguientes casos:
               ul.lista-ul.mb-0
                 li.d-flex.mb-2

@@ -1,1 +1,1 @@
-module.exports = 'Derechos fundamentales en el trabajo'
+module.exports = 'Derechos fundamentales del trabajo'

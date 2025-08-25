@@ -29,7 +29,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-2 Estado social de derecho
-              p.mb-0 Para finalizar, le invitamos a consultar el siguiente video “Estado social de derecho | Derecho al alcance de todos”
+              p.mb-0 Para finalizar, le invitamos a consultar el siguiente video “Estado social de derecho | Derecho al alcance de todos”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qUIXuBrkH9A" target="_blank")
                 span Ir al sitio

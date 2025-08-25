@@ -63,7 +63,7 @@
           .col-lg-4.mb-0
             img.d-none.d-lg-block.wi(src='@/assets/curso/tema1/6.png', alt='')
 
-      p.mb-4(data-aos="fade-right") El Plan Nacional de Educación en Derechos Humanos (Planedh) resalta que la jurisprudencia de la Corte Constitucional colombiana ha desarrollado tres lineamientos fundamentales y diferenciables en torno a la dignidad humana, los cuales son esenciales para comprender su protección y promoción en el marco de los derechos humanos en Colombia:
+      p.mb-4(data-aos="fade-right") El Plan Nacional de Educación en Derechos Humanos (PLANEDH) resalta que la jurisprudencia de la Corte Constitucional colombiana ha desarrollado tres lineamientos fundamentales y diferenciables en torno a la dignidad humana, los cuales son esenciales para comprender su protección y promoción en el marco de los derechos humanos en Colombia:
 
       .row.fondo2.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
         .col-lg-12
@@ -93,7 +93,7 @@
         .col-lg-1
           img.d-none.d-lg-block(src='@/assets/curso/tema1/11.svg', alt='')
         .col-lg-11
-          p.mb-2 Estos lineamientos reflejan una visión integradora de la dignidad humana como eje central del Estado social de derecho, en concordancia con los estándares constitucionales e internacionales de derechos humanos (Planedh, s.f.).
+          p.mb-2 Estos lineamientos reflejan una visión integradora de la dignidad humana como eje central del Estado social de derecho, en concordancia con los estándares constitucionales e internacionales de derechos humanos (PLANEDH, s.f.).
           p.mb-0 Así, desde el mismo enunciado normativo la dignidad humana es entendida como valor, como principio constitucional y como derecho fundamental autónomo.
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -120,14 +120,14 @@
   
       separador
       #t_1_3.titulo-segundo.mb-5
-        h2 1.3 Constitución política de Colombia
+        h2 1.3 Constitución Política de Colombia
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-10
           .bloque-texto-f.color-acento-contenido.pt-4.px-5.mb-lg-4.mb-2
             .bloque-texto-f__comillas
               i.fas.fa-quote-left.r1
-              p.bloque-texto-f__texto.mx-lg-5.my-lg-4 La Constitución Política de Colombia de 1991 constituye el marco normativo fundamental que rige la vida política, social y jurídica del país. Fue promulgada el 4 de julio de 1991 como resultado de un proceso constituyente amplio que buscó superar las limitaciones de la Constitución de 1886, en un contexto de transformación democrática y de búsqueda de paz y justicia social. Su preámbulo recoge el espíritu de unidad, respeto por los derechos humanos y voluntad de consolidar un orden justo, reafirmando el papel del pueblo colombiano como titular de la soberanía.
+              p.bloque-texto-f__texto.mx-lg-5.my-lg-4 La Constitución Política de Colombia de 1991 constituye el marco normativo fundamental que rige la vida política, social y jurídica del país. Fue promulgada el 4 de julio de 1991 como resultado de un proceso constituyente amplio que buscó superar las limitaciones de la Constitución de 1886, en un contexto de transformación democrática y de búsqueda de paz y justicia social. Su preámbulo recoge "el espíritu de unidad, respeto por los derechos humanos y voluntad de consolidar un orden justo, reafirmando el papel del pueblo colombiano como titular de la soberanía"
               i.fas.fa-quote-right.r2
             .bloque-texto-f__autor.mb-3
               h5.mb-3 - Asamblea Nacional Constituyente, 1991 

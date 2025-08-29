@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Derechos fundamentales del trabajo',
     Description:
-      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas, de la promoción de la dignidad humana.',
+      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas y de la promoción de la dignidad humana.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Derechos fundamentales del trabajo',
     Description:
-      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas y de la promoción de la dignidad humana.',
+      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante, como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas, de la promoción de la dignidad humana.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -129,16 +129,16 @@ export default {
   },
   complementario: [
     {
-      tema: 'Trabajo, sociedad y dignidad humana',
+      tema: '1. Trabajo, sociedad y dignidad',
       referencia:
-        'García Calero, C. A. (8 de junio de 2023). ¿Qué son los derechos fundamentales en el trabajo?.',
+        'CARLOS ARTURO GARCÍA CALERO. (2023, June 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sDEwRetsBCw',
     },
     {
-      tema: 'Desarrollo para una vida digna',
+      tema: '4. Desarrollo para una vida digna',
       referencia:
-        'Canal Capital. (29 de junio de 2021). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital.',
+        'Canal Capital. (2021, June 30). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EY-woQB8z8Q&t=35s',
     },
@@ -233,144 +233,90 @@ export default {
   referencias: [
     {
       referencia:
-        'Antunes, R. (2009). Los sentidos del trabajo: Ensayo sobre la afirmación y la negación del trabajo. Buenos Aires: Herramienta.',
+        'Cardona, H., & Vera, C. (2003). Trabajo y sociedad: Dimensiones, conflictos y perspectivas.',
       link: '',
     },
     {
       referencia:
-        'Asamblea Nacional Constituyente. (1991). Constitución Política de Colombia. Diario Oficial No. 40.965.',
+        'Colombia. Constitución Política de 1991. Diario Oficial No. 44.601.',
       link: '',
     },
     {
       referencia:
-        'Bobbio, N. (1987). El futuro de la democracia. México: Fondo de Cultura Económica.',
+        'Colombia. Código Sustantivo del Trabajo. Decreto Ley 2351 de 1965.',
+      link: '',
+    },
+    {
+      referencia: 'Colombia. Ley 23 de 1991.',
+      link: '',
+    },
+    {
+      referencia: 'Colombia. Ley 446 de 1998.',
+      link: '',
+    },
+    {
+      referencia: 'Colombia. Ley 640 de 2001.',
+      link: '',
+    },
+    {
+      referencia: 'Colombia. Decreto 1818 de 1998.',
+      link: '',
+    },
+    {
+      referencia: 'Colombia. Decreto 2511 de 1998.',
       link: '',
     },
     {
       referencia:
-        'Cardona, C., & Vera, C. (2003). Modelo de producción, mundo del trabajo y cambio cultural. En C. Cardona & C. Vera (Eds.), Trabajo, sociedad y dignidad humana (pp. 13–36). Editorial Anthropos.',
+        'Corte Constitucional de Colombia. (1992). Sentencia T-401 de 1992.',
+      link: 'https://www.corteconstitucional.gov.co/',
+    },
+    {
+      referencia:
+        'Didácticas para la ciudadanía laboral. (2011). Escuela Nacional Sindical.',
       link: '',
     },
     {
       referencia:
-        'Castel, R. (1997). La metamorfosis de la cuestión social: una crónica del salariado. Paidós.',
+        'Escuela Nacional Sindical. (2011). La ciudadanía laboral y los derechos del trabajo.',
       link: '',
     },
     {
       referencia:
-        'Cepeda Espinosa, M. J. (2004). Derecho constitucional colombiano: Una introducción crítica. Bogotá: Universidad de los Andes, Facultad de Derecho.',
+        'García. (1987). Justicia Constitucional y Estado de Derecho.',
+      link: '',
+    },
+    {
+      referencia: 'Marquardt. (2009). Democracia y Estado Constitucional.',
       link: '',
     },
     {
       referencia:
-        'Constitución Política de Colombia. (1991). Asamblea Nacional Constituyente.',
-      link: 'https://www.constitucioncolombia.com/',
+        'Organización Internacional del Trabajo. (1919/2023). Acerca de la OIT.',
+      link: 'https://www.ilo.org/global/about-the-ilo/lang--es/index.htm',
     },
     {
       referencia:
-        'Corte Constitucional. (1992). Sentencia T-401 de 1992. Magistrado ponente: Eduardo Cifuentes Muñoz.',
-      link:
-        'https://img.lpderecho.pe/wp-content/uploads/2022/05/Sentencia-T-401-1992-Colombia-LPDerecho.pdf',
+        'Organización Internacional del Trabajo. (1976). Recomendación núm. 91 sobre contratos colectivos de trabajo.',
+      link: 'https://www.ilo.org',
     },
     {
       referencia:
-        'Dahl, R. A. (2001). La democracia: Una guía para los ciudadanos. Madrid: Taurus.',
+        'Organización Internacional del Trabajo. Convenio núm. 87: Derecho de sindicación (ratificado por Colombia).',
       link: '',
     },
     {
       referencia:
-        'Federici, S. (2013). El patriarcado del salario. Traficantes de Sueños.',
+        'Organización Internacional del Trabajo. Convenio núm. 98: Derecho de negociación colectiva (ratificado por Colombia).',
+      link: '',
+    },
+    {
+      referencia: 'Ramírez. (2015). Trabajo protegido y dignidad humana.',
       link: '',
     },
     {
       referencia:
-        'Feregrino Basurto, M. A. (2015). Trabajo y ciudadanía. Iberofórum. Revista de Ciencias Sociales de la Universidad Iberoamericana, 19, 29-62.',
-      link:
-        'https://ibero.mx/iberoforum/19/pdf/ESPANOL/2.%20NOTAS%20PARA%20EL%20DEBATE%20FEREGRINO%20NO.%2019.pdf',
-    },
-    {
-      referencia:
-        'Kant, I. (2009). Fundamentación de la metafísica de las costumbres (M. García Morente, Trad.; Opuscula Philosophica, n.º 18). Madrid: Ediciones Encuentro, S.A. (Trabajo original publicado en 1785).',
-      link: '',
-    },
-    {
-      referencia:
-        'López, D., & Rojas, A. (2018). Derechos colectivos del trabajo en Colombia: avances y desafíos. Revista Derecho del Trabajo, 35(2), 45–62.',
-      link: '',
-    },
-    {
-      referencia:
-        'Mallarino, C. (2005). Relaciones laborales y principios del derecho del trabajo. Universidad del Rosario.',
-      link: '',
-    },
-    {
-      referencia:
-        'Marshall, T. H. (1998). Ciudadanía y clase social. Madrid: Alianza Editorial.',
-      link: '',
-    },
-    {
-      referencia:
-        'Nussbaum, M., & Sen, A. (Eds.). (1996). La calidad de vida (1.ª ed., traducción de Victoria Camps). Fondo de Cultura Económica. (Obra original publicada en 1993).',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo (OIT). (2019). La cultura del trabajo decente.',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo (OIT). (2019). Entornos de trabajo saludables y productivos.',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo (OIT). (2021). La libertad sindical y la negociación colectiva: Principios y normas internacionales del trabajo.',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo. (s. f.). Los derechos laborales son derechos humanos.',
-      link:
-        'https://www.ilo.org/es/resource/article/los-derechos-laborales-son-derechos-humanos',
-    },
-    {
-      referencia:
-        'Procuraduría General de la Nación. (s.f.). Plan Estratégico Nacional en Derechos Humanos y Derecho Internacional Humanitario (PLANEDH). Bogotá, Colombia.',
-      link: '',
-    },
-    {
-      referencia:
-        'Ramírez, D. (2015). Trabajo decente y cultura del trabajo: Claves para una ciudadanía laboral en Colombia. Universidad Nacional de Colombia.',
-      link: '',
-    },
-    {
-      referencia:
-        'Real Academia Española. (s. f.). Democracia. En Diccionario de la lengua española (23.ª ed.).',
-      link: 'https://dle.rae.es/democracia',
-    },
-    {
-      referencia: 'Sartori, G. (1998). ¿Qué es la democracia? México: Taurus.',
-      link: '',
-    },
-    {
-      referencia:
-        'Sen, A. (2000). Desarrollo y libertad (1.ª ed., traducción de Joaquín Chamorro Mielke). Editorial Planeta.',
-      link: '',
-    },
-    {
-      referencia:
-        'UNESCO. (2020). Educación para la ciudadanía mundial: prepararse para el futuro.',
-      link: '',
-    },
-    {
-      referencia:
-        'Uprimny, R. (2011). La tutela: origen, desarrollos y desafíos. Bogotá: Dejusticia.',
-      link: '',
-    },
-    {
-      referencia:
-        'Vásquez, M., & Molina, D. (2020). Ciudadanía y acceso a la justicia: estrategias pedagógicas para la divulgación de derechos. Bogotá: Universidad Nacional de Colombia.',
+        'Wilensky, H. L. (1975). The welfare state and equality. University of California Press.',
       link: '',
     },
   ],

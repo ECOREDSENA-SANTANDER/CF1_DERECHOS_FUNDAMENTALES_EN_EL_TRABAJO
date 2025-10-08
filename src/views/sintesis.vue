@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.p-4
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

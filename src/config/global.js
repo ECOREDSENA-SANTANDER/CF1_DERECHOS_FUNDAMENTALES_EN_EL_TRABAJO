@@ -131,7 +131,7 @@ export default {
     {
       tema: '1. Trabajo, sociedad y dignidad',
       referencia:
-        'CARLOS ARTURO GARCÍA CALERO. (2023, June 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
+        'García Calero, C. A. (2023, junio 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sDEwRetsBCw',
     },
@@ -239,7 +239,8 @@ export default {
     {
       referencia:
         'Colombia. Constitución Política de 1991. Diario Oficial No. 44.601.',
-      link: '',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125.',
     },
     {
       referencia:

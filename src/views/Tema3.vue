@@ -34,13 +34,13 @@
                 ul.lista-ul.mb-0.my-2
                   li.d-flex.mb-2
                     i.fas.fa-user
-                    p.mb-0 #[b Vulneración de Derechos Fundamentales:] cuando se vean vulnerados o amenazados los derechos constitucionales fundamentales, incluso aquellos que no están textualmente consagrados en la Constitución Política, siempre que se pueda establecer una conexión con los derechos fundamentales. Esto puede ocurrir por la acción u omisión de cualquier autoridad pública.
+                    p.mb-0 #[b Vulneración de derechos fundamentales:] cuando se vean vulnerados o amenazados los derechos constitucionales fundamentales, incluso aquellos que no están textualmente consagrados en la Constitución Política, siempre que se pueda establecer una conexión con los derechos fundamentales. Esto puede ocurrir por la acción u omisión de cualquier autoridad pública.
                   li.d-flex.mb-2
                     i.fas.fa-user
-                    p.mb-0 #[b Falta de Otros Medios de Protección:] la tutela es procedente cuando no existen otros mecanismos disponibles para proteger el derecho en cuestión. Sin embargo, también puede utilizarse como recurso transitorio para evitar un perjuicio irremediable, incluso si hay otros medios de protección disponibles.
+                    p.mb-0 #[b Falta de otros medios de protección:] la tutela es procedente cuando no existen otros mecanismos disponibles para proteger el derecho en cuestión. Sin embargo, también puede utilizarse como recurso transitorio para evitar un perjuicio irremediable, incluso si hay otros medios de protección disponibles.
                   li.d-flex.mb-2
                     i.fas.fa-user
-                    p.mb-0 #[b Acción u Omisión de Particulares:] la acción de tutela puede ser invocada cuando la vulneración de derechos se deriva de la acción u omisión de un particular, siempre que este esté prestando un servicio público o cumpliendo funciones públicas.
+                    p.mb-0 #[b Acción u omisión de particulares:] la acción de tutela puede ser invocada cuando la vulneración de derechos se deriva de la acción u omisión de un particular, siempre que este esté prestando un servicio público o cumpliendo funciones públicas.
                   li.d-flex.mb-2
                     i.fas.fa-user
                     p.mb-0 #[b Situación de indefensión:] proceder cuando el solicitante se encuentre en una situación de indefensión o subordinación respecto del particular contra quien se interpone la acción de tutela.
@@ -137,8 +137,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-2 Derecho de petición
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video #[b “Derecho de petición.”]
+              h4.mb-0 Derecho de petición
             .col-sm-auto
               a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Derechos_fundamentales_en_el_trabajo/CF1_Ejercicio_derechos_fundamentales_en_el_trabajo/downloads/Anexo-Derecho-de-Peticion.mp4" target="_blank")
                 span Ir al sitio
@@ -151,8 +150,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-2 Derecho de petición y acción de tutela
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video #[b “Derecho de petición y acción de tutela.”]
+              h4.mb-0 Derecho de petición y acción de tutela
             .col-sm-auto
               a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Derechos_fundamentales_en_el_trabajo/CF1_Ejercicio_derechos_fundamentales_en_el_trabajo/downloads/Anexo-derecho-de-peticion-y-accion-de-tutela.mp4" target="_blank")
                 span Ir al sitio

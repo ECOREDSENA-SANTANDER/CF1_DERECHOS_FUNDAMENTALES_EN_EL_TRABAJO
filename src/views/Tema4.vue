@@ -17,7 +17,7 @@
 
     p.mb-4 Para profundizar esta temática, le invitamos a consultar los siguientes videos:
     
-    .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-4
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/video.svg")
@@ -31,7 +31,7 @@
                 span Ir al sitio
                 i.fas.fa-video
 
-    .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/video.svg")
@@ -107,7 +107,7 @@
         .col-lg-11
           p.mb-0 La democracia constituye uno de los conceptos más ideologizados y, desde la perspectiva popular, se entiende como el autogobierno del pueblo. En este marco, se configura como un Estado constitucional en la medida en que dispone de una constitución formal, caracterizada por una codificación amplia y accesible para la ciudadanía, que simultáneamente limita y legitima el poder estatal. Generalmente, dicha constitución es producto del trabajo de una asamblea constituyente (Marquardt, 2009).
 
-    .tarjeta.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/video.svg")
@@ -128,7 +128,7 @@
         .bg11.p-4
           p.mb-lg-3.my-lg-4.mb-0 Finalmente, resulta pertinente reflexionar sobre la transformación necesaria en la mentalidad colectiva para enfrentar los retos que plantea la coyuntura mundial actual.
 
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-0
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/pdf.svg")

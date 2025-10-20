@@ -59,11 +59,11 @@
         .row.m-0.align-items-center.justify-content-center
           .col-lg-8.mb-0.mb-lg-0
             .bloque-texto-a__texto.p-lg-4.p-3
-              p.mb-lg-3.my-lg-2.my-0.mb-0.mx-lg-4 En Colombia, la Corte Constitucional, en la Sentencia T-401 de 1992, estableció en sus fundamentos jurídicos que la dignidad humana “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia, [de manera que] (…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]”. En este sentido, la integridad del ser humano se erige como razón de ser, principio y fin último de la organización estatal (Corte Constitucional, Sentencia T-401/92).
+              p.mb-lg-3.my-lg-2.my-0.mb-0.mx-lg-4 En Colombia, la Corte Constitucional, en la Sentencia T-401 de 1992, estableció en sus fundamentos jurídicos que la dignidad humana “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia, [de manera que] (…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]”. En este sentido, la integridad del ser humano se erige como razón de ser, principio y fin último de la organización estatal (Corte Constitucional, Sentencia T-401 / 92).
           .col-lg-4.mb-0
             img.d-none.d-lg-block(src='@/assets/curso/tema1/6.png', alt='')
 
-      p.mb-4(data-aos="fade-right") El Plan Nacional de Educación en Derechos Humanos (Planedh) señala que la jurisprudencia de la Corte Constitucional de Colombia ha definido tres lineamientos claros y diferenciables en torno a la dignidad humana:
+      p.mb-4(data-aos="fade-right") El Plan Nacional de Educación en Derechos Humanos (PLANEDH) señala que la jurisprudencia de la Corte Constitucional de Colombia ha definido tres lineamientos claros y diferenciables en torno a la dignidad humana:
       
       .bg4.mb-5
         .row.justify-content-center.align-items-center
@@ -82,13 +82,13 @@
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 3
-                  p.mb-0 #[b La dignidad como condiciones materiales de existencia,] que exige al Estado garantizar a cada individuo las bases mínimas para llevar una vida digna (Corte Constitucional, Sentencia T-881/02, citada en Ministerio de Educación Nacional, 2009).
+                  p.mb-0 #[b La dignidad como condiciones materiales de existencia,] que exige al Estado garantizar a cada individuo las bases mínimas para llevar una vida digna (Corte Constitucional, Sentencia T-881 / 02, citada en Ministerio de Educación Nacional, 2009).
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-1
           img.d-none.d-lg-block(src='@/assets/curso/tema1/11.svg', alt='')
         .col-lg-11
-          p.mb-0 De esta manera, desde el propio enunciado normativo constitucional, la dignidad humana se concibe en una triple dimensión: como valor superior del ordenamiento jurídico, que inspira y orienta la interpretación de todas las normas; como principio constitucional, que guía la actuación de las autoridades y la configuración del Estado social de derecho; y como derecho fundamental autónomo, directamente exigible y protegido a través de mecanismos como la acción de tutela (Corte Constitucional, Sentencia T-881/02).
+          p.mb-0 De esta manera, desde el propio enunciado normativo constitucional, la dignidad humana se concibe en una triple dimensión: como valor superior del ordenamiento jurídico, que inspira y orienta la interpretación de todas las normas; como principio constitucional, que guía la actuación de las autoridades y la configuración del Estado social de derecho; y como derecho fundamental autónomo, directamente exigible y protegido a través de mecanismos como la acción de tutela (Corte Constitucional, Sentencia T-881 / 02).
       
       .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
@@ -112,7 +112,7 @@
         .col-lg-10
           .bg15.p-lg-5.p-4
             p.mb-4 El pueblo de Colombia, en ejercicio de su poder soberano, a través de sus delegatarios a la Asamblea Nacional Constituyente, promulgó la Constitución Política de 1991, invocando la protección de Dios y con el propósito de fortalecer la unidad nacional, garantizar la vida, la convivencia, el trabajo, la justicia, la igualdad, el conocimiento, la libertad y la paz, dentro de un marco democrático y participativo que asegure un orden político, económico y social justo, y que a su vez impulse la integración de la comunidad latinoamericana.
-            h5.mb-0.text-center - Constitución Política de Colombia, 1991, Preámbulo
+            h5.mb-0.text-center - Constitución Política de Colombia, 1991, Preámbulo.
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-9.mb-lg-2
@@ -169,7 +169,7 @@
         .col-lg-7
           p.mb-4 En primer lugar, es necesario reconocer el trabajo como un derecho fundamental, en tanto constituye un medio indispensable para la satisfacción de las necesidades básicas humanas, el desarrollo integral de la persona y la consolidación de la democracia. Desde un enfoque social y de género, se han diferenciado los espacios en los que se realiza el trabajo y se les ha asignado un valor desigual.
           .bg1.p-4
-            p.mb-0 El trabajo productivo, históricamente realizado en su mayoría por hombres, se ubica en el espacio público y se vincula directamente con la empresa o el empleador. Este tipo de trabajo ha sido socialmente reconocido y remunerado, lo que ha situado a quienes lo ejercen en el papel de proveedores. En contraste, el trabajo reproductivo, desempeñado en gran parte por mujeres, se desarrolla en el ámbito privado —el hogar— e incluye actividades esenciales como la crianza, el cuidado de la familia y la atención de personas en situación de vulnerabilidad. A pesar de que este trabajo aporta igual o incluso mayor valor al bienestar social y económico, tradicionalmente no ha recibido un reconocimiento equivalente ni en lo jurídico ni en lo económico (Escuela Nacional Sindical, 2011).
+            p.mb-0 El trabajo productivo, históricamente realizado en su mayoría por hombres, se ubica en el espacio público y se vincula directamente con la empresa o el empleador. Este tipo de trabajo ha sido socialmente reconocido y remunerado, lo que ha situado a quienes lo ejercen en el papel de proveedores. En contraste, el trabajo reproductivo, desempeñado en gran parte por mujeres, se desarrolla en el ámbito privado (el hogar) e incluye actividades esenciales como la crianza, el cuidado de la familia y la atención de personas en situación de vulnerabilidad. A pesar de que este trabajo aporta igual o incluso mayor valor al bienestar social y económico, tradicionalmente no ha recibido un reconocimiento equivalente ni en lo jurídico ni en lo económico (Escuela Nacional Sindical, 2011).
       
       .titulo.mb-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/18.svg', alt='Imagen decorativa')
@@ -262,7 +262,7 @@
           .col-lg-1
             img.d-none.d-lg-block(src='@/assets/curso/tema1/30.svg', alt='')
           .col-lg-11
-            p.mb-0(data-aos="fade-left") El modelo empresarial que responde a esta dinámica se apoya en el autocontrol, el uso intensivo de tecnologías de la información y la comunicación, así como en nuevas formas de organización productiva que demandan otro tipo de trabajador/a. De este modo, se transita de un modelo industrialista —caracterizado por verticalidad, jerarquización, homogeneidad y disciplina— hacia un modelo de horizontalidad, voluntad individual, diversidad y autorregulación de las personas trabajadoras.
+            p.mb-0(data-aos="fade-left") El modelo empresarial que responde a esta dinámica se apoya en el autocontrol, el uso intensivo de tecnologías de la información y la comunicación, así como en nuevas formas de organización productiva que demandan otro tipo de trabajador / a. De este modo, se transita de un modelo industrialista (caracterizado por verticalidad, jerarquización, homogeneidad y disciplina) hacia un modelo de horizontalidad, voluntad individual, diversidad y autorregulación de las personas trabajadoras.
             
       .bg6.p-0.mb-5
         .row.justify-content-center.align-items-center

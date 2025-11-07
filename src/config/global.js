@@ -129,16 +129,16 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Trabajo, sociedad y dignidad',
+      tema: 'Trabajo, sociedad y dignidad',
       referencia:
-        'García Calero, C. A. (2023, junio 8). ¿Qué son los derechos fundamentales en el trabajo [Video]. YouTube.',
+        'García Calero, C. A. (2023, junio 8). ¿Qué son los derechos fundamentales en el trabajo?',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sDEwRetsBCw',
     },
     {
-      tema: '4. Desarrollo para una vida digna',
+      tema: 'Desarrollo para una vida digna',
       referencia:
-        'Canal Capital. (2021, June 30). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital [Video]. YouTube.',
+        'Canal Capital. (2021, June 30). ¿Qué significa el Estado Social de Derecho? | La promesa congelada | Especiales Capital.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EY-woQB8z8Q&t=35s',
     },

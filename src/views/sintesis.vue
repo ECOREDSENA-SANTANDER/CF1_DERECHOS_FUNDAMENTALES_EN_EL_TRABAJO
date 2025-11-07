@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.p-4
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="La síntesis expone la estructura de los derechos fundamentales en el ámbito laboral como derechos humanos esenciales para la dignidad, la igualdad y la justicia social. Destaca la relación del derecho al trabajo con la vida social, económica, política y cultural, así como la importancia de su protección mediante normas nacionales e internacionales. También aborda la libertad sindical, la negociación colectiva, el contrato colectivo, el derecho a la huelga y los mecanismos de protección jurídica, resaltando que el trabajo es tanto medio de subsistencia como espacio de autorrealización, participación ciudadana y fortalecimiento democrático.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

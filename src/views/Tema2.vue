@@ -210,7 +210,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-2 ¿Qué es un Sindicato?
-              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video #[b “¿Qué es un Sindicato?”]
+              p.mb-0 Para profundizar esta temática, le invitamos a consultar el siguiente video #[b “¿Qué es un Sindicato?”].
             .col-sm-auto
               a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Derechos_fundamentales_en_el_trabajo/CF1_Ejercicio_derechos_fundamentales_en_el_trabajo/downloads/Anexo-Que-es-un-sindicato-CF.mp4" target="_blank")
                 span Ir al sitio
@@ -299,7 +299,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-0 Anexo 7. Negociación Colectiva ante el Siglo XXI.
+              h4.mb-2 Anexo 7. Negociación Colectiva ante el Siglo XXI
+              p.mb-0 Para profundizar esta temática le invitamos a consultar el siguiente documento titulado “Negociación Colectiva ante el Siglo XXI”.
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo7_Negociacion_Colectiva_ante_el_Siglo_XXI.pdf')" target="_blank")
                 span Descargar
@@ -312,7 +313,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-0 Anexo 8. La importancia de la negociación colectiva en las relaciones laborales.
+              h4.mb-2 Anexo 8. La importancia de la negociación colectiva en las relaciones laborales
+              p.mb-0 Continúe profundizando en esta temática consultando el siguiente documento “La importancia de la negociación colectiva en las relaciones laborales”.
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo8_La_importancia_de_la_negociacion_colectiva_en_las_relaciones_laborales.pdf')" target="_blank")
                 span Descargar

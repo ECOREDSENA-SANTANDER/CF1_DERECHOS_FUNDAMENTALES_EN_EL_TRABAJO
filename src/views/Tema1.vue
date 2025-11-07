@@ -27,7 +27,7 @@
                 img.img-t.ps-0.d-none.d-lg-block(src='@/assets/curso/tema1/2.svg', alt='')
               .col-lg-6.ps-0.pe-lg-4(data-aos="fade-left")
                 .p-3
-                  p.mb-4.mx-lg-0.mx-4(data-aos="fade-left") La democracia se concibe como una de las formas de gobierno en las que el poder político emana del pueblo y se ejerce en su beneficio. Tradicionalmente, se ha caracterizado como el gobierno de las mayorías —los muchos— en contraposición con formas políticas como la monarquía, donde gobierna uno solo, o la aristocracia, donde gobierna una minoría selecta (Bobbio, 2000).
+                  p.mb-4.mx-lg-0.mx-4(data-aos="fade-left") La democracia se concibe como una de las formas de gobierno en las que el poder político emana del pueblo y se ejerce en su beneficio. Tradicionalmente, se ha caracterizado como el gobierno de las mayorías (la ciudadanía) en contraposición con formas políticas como la monarquía, donde gobierna uno solo, o la aristocracia, donde gobierna una minoría selecta (Bobbio, 2000).
                   p.mb-0.mx-lg-0.mx-4(data-aos="fade-left") En este sentido, Hoyos Morales (como se citó en Fundación Paz & Reconciliación, 2019) señala que la democracia no solo implica un mecanismo formal de representación, sino también un proceso de participación activa de la ciudadanía en la construcción y vigilancia del poder político.
         .col-lg-3.mb-0
           img.img-a.d-none.d-lg-block(src='@/assets/curso/tema1/3.png', alt='')
@@ -59,7 +59,7 @@
         .row.m-0.align-items-center.justify-content-center
           .col-lg-8.mb-0.mb-lg-0
             .bloque-texto-a__texto.p-lg-4.p-3
-              p.mb-lg-3.my-lg-2.my-0.mb-0.mx-lg-4 En Colombia, la Corte Constitucional, en la Sentencia T-401 de 1992, estableció en sus fundamentos jurídicos que la dignidad humana “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia, [de manera que] (…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]”. En este sentido, la integridad del ser humano se erige como razón de ser, principio y fin último de la organización estatal (Corte Constitucional, Sentencia T-401 / 92).
+              p.mb-lg-3.my-lg-2.my-0.mb-0.mx-lg-4 En Colombia, la Corte Constitucional, en la Sentencia T-401 de 1992, estableció en sus fundamentos jurídicos que la dignidad humana “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia, [de manera que] (…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]”. En este sentido, la integridad del ser humano se erige como razón de ser, principio y fin último de la organización estatal (Corte Constitucional, Sentencia T-401/92).
           .col-lg-4.mb-0
             img.d-none.d-lg-block(src='@/assets/curso/tema1/6.png', alt='')
 
@@ -82,14 +82,15 @@
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 3
-                  p.mb-0 #[b La dignidad como condiciones materiales de existencia,] que exige al Estado garantizar a cada individuo las bases mínimas para llevar una vida digna (Corte Constitucional, Sentencia T-881 / 02, citada en Ministerio de Educación Nacional, 2009).
+                  p.mb-0 #[b La dignidad como condiciones materiales de existencia,] que exige al Estado garantizar a cada individuo las bases mínimas para llevar una vida digna (Corte Constitucional, Sentencia T-881/02, citada en Ministerio de Educación Nacional, 2009).
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-1
           img.d-none.d-lg-block(src='@/assets/curso/tema1/11.svg', alt='')
         .col-lg-11
-          p.mb-0 De esta manera, desde el propio enunciado normativo constitucional, la dignidad humana se concibe en una triple dimensión: como valor superior del ordenamiento jurídico, que inspira y orienta la interpretación de todas las normas; como principio constitucional, que guía la actuación de las autoridades y la configuración del Estado social de derecho; y como derecho fundamental autónomo, directamente exigible y protegido a través de mecanismos como la acción de tutela (Corte Constitucional, Sentencia T-881 / 02).
-      
+          p.mb-0 De esta manera, desde el propio enunciado normativo constitucional, la dignidad humana se concibe en una triple dimensión: como valor superior del ordenamiento jurídico, que inspira y orienta la interpretación de todas las normas; como principio constitucional, que guía la actuación de las autoridades y la configuración del Estado social de derecho; y como derecho fundamental autónomo, directamente exigible y protegido a través de mecanismos como la acción de tutela (Corte Constitucional, Sentencia T-881/02).
+
+
       .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
@@ -131,7 +132,7 @@
       .row.justify-content.align-items-end.mb-5
         .col-lg-5
           .bg5.p-4.mb-lg-0.mb-4
-            p.mb-2.my-2 De lo expuesto se infiere que el derecho del trabajo en Colombia debe ser comprendido, interpretado y aplicado en armonía con las Cartas internacionales de derechos humanos, tanto del Sistema de Naciones Unidas —incluyendo los convenios y recomendaciones de la Organización Internacional del Trabajo (OIT)— como del Sistema Interamericano de Derechos Humanos. En cumplimiento de esta exigencia democrática, la Constitución Política de 1991 reconoce y garantiza la libertad sindical, como pilar esencial para contrarrestar la desigualdad social mediante el ejercicio efectivo del derecho de asociación (Constitución Política de Colombia, 1991, art. 39).
+            p.mb-2.my-2 De lo expuesto se infiere que el derecho del trabajo en Colombia debe ser comprendido, interpretado y aplicado en armonía con las Cartas internacionales de derechos humanos, tanto del Sistema de Naciones Unidas (incluyendo los convenios y recomendaciones de la Organización Internacional del Trabajo - OIT) como del Sistema Interamericano de Derechos Humanos. En cumplimiento de esta exigencia democrática, la Constitución Política de 1991 reconoce y garantiza la libertad sindical, como pilar esencial para contrarrestar la desigualdad social mediante el ejercicio efectivo del derecho de asociación (Constitución Política de Colombia, 1991, art. 39).
         .col-lg-3
           img.d-none.d-lg-block(src='@/assets/curso/tema1/14.svg' alt='')
         .col-lg-4
@@ -193,10 +194,10 @@
               img.d-none.d-lg-block(src='@/assets/curso/tema1/16.svg' alt='')
             .col-lg-4
               img.mb-2.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/17.svg' alt='')
-              p.mb-lg-0.mb-4 Las relaciones que las personas establecen con respecto al trabajo constituyen un eje central en la configuración tanto de la identidad individual como de la identidad colectiva. El quehacer laboral permite a los sujetos reconocerse en un rol social específico, lo que a su vez sustenta la división social del trabajo y, con ello, la estructuración de jerarquías y relaciones de poder (Marx, 1867 / 2014).
+              p.mb-lg-0.mb-4 Las relaciones que las personas establecen con respecto al trabajo constituyen un eje central en la configuración tanto de la identidad individual como de la identidad colectiva. El quehacer laboral permite a los sujetos reconocerse en un rol social específico, lo que a su vez sustenta la división social del trabajo y, con ello, la estructuración de jerarquías y relaciones de poder (Marx, 1867/2014).
             .col-lg-5
               .bg5.p-4.mb-lg-0.mb-0
-                p.mb-0 En este marco, la relación entre trabajo y capital se articula con el valor de cambio asignado a la fuerza de trabajo, lo cual guarda estrecha conexión con el acceso a bienes como la cultura, la educación y la satisfacción de necesidades básicas. De esta manera, la remuneración justa no solo mejora las condiciones materiales de vida, sino que también otorga reconocimiento social y económico, lo que convierte al trabajo en un factor que dignifica la vida de las personas trabajadoras (Weber, 1905 / 2012; Arendt, 1958 / 2009).
+                p.mb-0 En este marco, la relación entre trabajo y capital se articula con el valor de cambio asignado a la fuerza de trabajo, lo cual guarda estrecha conexión con el acceso a bienes como la cultura, la educación y la satisfacción de necesidades básicas. De esta manera, la remuneración justa no solo mejora las condiciones materiales de vida, sino que también otorga reconocimiento social y económico, lo que convierte al trabajo en un factor que dignifica la vida de las personas trabajadoras (Weber, 1905/2012; Arendt, 1958/2009).
     
           .row.justify-content-center.align-items-end.mb-0
             .col-lg-9.mb-lg-1
@@ -262,7 +263,8 @@
           .col-lg-1
             img.d-none.d-lg-block(src='@/assets/curso/tema1/30.svg', alt='')
           .col-lg-11
-            p.mb-0(data-aos="fade-left") El modelo empresarial que responde a esta dinámica se apoya en el autocontrol, el uso intensivo de tecnologías de la información y la comunicación, así como en nuevas formas de organización productiva que demandan otro tipo de trabajador / a. De este modo, se transita de un modelo industrialista (caracterizado por verticalidad, jerarquización, homogeneidad y disciplina) hacia un modelo de horizontalidad, voluntad individual, diversidad y autorregulación de las personas trabajadoras.
+            p.mb-0(data-aos="fade-left") El modelo empresarial que responde a esta dinámica se apoya en el autocontrol, el uso intensivo de tecnologías de la información y la comunicación, así como en nuevas formas de organización productiva que demandan otro tipo de trabajador/a. De este modo, se transita de un modelo industrialista (caracterizado por verticalidad, jerarquización, homogeneidad y disciplina) hacia un modelo de horizontalidad, voluntad individual, diversidad y autorregulación de las personas trabajadoras.
+
             
       .bg6.p-0.mb-5
         .row.justify-content-center.align-items-center
@@ -286,6 +288,7 @@
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2_Fudamentacion_y_defensa_de_los_derechos_laborales.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
+
 
   </template>
 

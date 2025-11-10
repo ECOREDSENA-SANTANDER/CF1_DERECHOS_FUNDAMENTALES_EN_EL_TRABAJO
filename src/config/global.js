@@ -197,7 +197,7 @@ export default {
     {
       termino: 'Equidad laboral',
       significado:
-        'hace referencia a la igualdad en lo que a raza, origen o religión se refiere, en un mundo en el que las oleadas migratorias son el pan de cada día. De hecho, el objetivo final es que cualquier trabajador tenga los mismos derechos en una empresa o institución sea cual sea su origen, sus creencias o su sexo/ sexualidad. En conclusión, la equidad laboral es aquello que debería regir los puestos de trabajo de todos los ciudadanos del mundo.',
+        'hace referencia a la igualdad en lo que a raza, origen o religión se refiere, en un mundo en el que las oleadas migratorias son el pan de cada día. De hecho, el objetivo final es que cualquier trabajador tenga los mismos derechos en una empresa o institución sea cual sea su origen, sus creencias o su sexo/sexualidad. En conclusión, la equidad laboral es aquello que debería regir los puestos de trabajo de todos los ciudadanos del mundo.',
     },
     {
       termino: 'Identidad cultural',
@@ -394,7 +394,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Andrea Ardila Chaparro',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
